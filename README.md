@@ -67,7 +67,8 @@ See the project documentation for detailed photos of the build.
 ## 📖 Additional Documentation
 
 Check out the complete project documentation here:  
-👉 [Link to your documentation PDF or Word file]
+👉 (https://github.com/Safaet-islam/ymfc-al-arduino-quadcopter/blob/main/Documentation/YMFC-AL_Arduino_Quadcopter_Project_Documentation.pdf)
+
 
 ---
 
